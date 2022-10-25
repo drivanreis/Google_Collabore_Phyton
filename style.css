@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+header{
+    text-align: center;
+}
+
+main{
+    width: 70%;
+    margin: auto;
+    /*background-color: black;*/
+}
+
+a{
+    text-decoration: none,;
+}
